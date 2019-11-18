@@ -1,0 +1,14 @@
+C:\Documents and Settings\george\Desktop\HumanResources\HRMain\bin\Debug\HRMain.exe
+C:\Documents and Settings\george\Desktop\HumanResources\HRMain\bin\Debug\HRMain.pdb
+C:\Documents and Settings\george\Desktop\HumanResources\HRMain\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\george\Desktop\HumanResources\HRMain\obj\Debug\HRMain.HRMainForm.resources
+C:\Documents and Settings\george\Desktop\HumanResources\HRMain\obj\Debug\HRMain.Properties.Resources.resources
+C:\Documents and Settings\george\Desktop\HumanResources\HRMain\obj\Debug\HRMain.csproj.GenerateResource.Cache
+C:\Documents and Settings\george\Desktop\HumanResources\HRMain\obj\Debug\HRMain.exe
+C:\Documents and Settings\george\Desktop\HumanResources\HRMain\obj\Debug\HRMain.pdb
+C:\Documents and Settings\george\Desktop\HumanResources\HRMain\bin\Debug\Business.dll
+C:\Documents and Settings\george\Desktop\HumanResources\HRMain\bin\Debug\Data.dll
+C:\Documents and Settings\george\Desktop\HumanResources\HRMain\bin\Debug\GUI.dll
+C:\Documents and Settings\george\Desktop\HumanResources\HRMain\bin\Debug\Business.pdb
+C:\Documents and Settings\george\Desktop\HumanResources\HRMain\bin\Debug\GUI.pdb
+C:\Documents and Settings\george\Desktop\HumanResources\HRMain\bin\Debug\Data.pdb

@@ -1,0 +1,16 @@
+D:\C# II\Archive\HR X\HumanResources\HRMain\obj\Debug\HRMain.exe
+D:\C# II\Archive\HR X\HumanResources\HRMain\obj\Debug\HRMain.pdb
+C:\Users\BHlambert\Documents\Coleman USB\C# II\Archive\HR X\HumanResources\HRMain\obj\Debug\HRMain.exe
+C:\Users\BHlambert\Documents\Coleman USB\C# II\Archive\HR X\HumanResources\HRMain\obj\Debug\HRMain.pdb
+C:\Users\BHlambert\Documents\Coleman USB\C# II\Archive\HR X\HumanResources\HRMain\bin\Debug\HRMain.exe
+C:\Users\BHlambert\Documents\Coleman USB\C# II\Archive\HR X\HumanResources\HRMain\bin\Debug\HRMain.pdb
+C:\Users\BHlambert\Documents\Coleman USB\C# II\Archive\HR X\HumanResources\HRMain\bin\Debug\Business.dll
+C:\Users\BHlambert\Documents\Coleman USB\C# II\Archive\HR X\HumanResources\HRMain\bin\Debug\Data.dll
+C:\Users\BHlambert\Documents\Coleman USB\C# II\Archive\HR X\HumanResources\HRMain\bin\Debug\GUI.dll
+C:\Users\BHlambert\Documents\Coleman USB\C# II\Archive\HR X\HumanResources\HRMain\bin\Debug\Business.pdb
+C:\Users\BHlambert\Documents\Coleman USB\C# II\Archive\HR X\HumanResources\HRMain\bin\Debug\Data.pdb
+C:\Users\BHlambert\Documents\Coleman USB\C# II\Archive\HR X\HumanResources\HRMain\bin\Debug\GUI.pdb
+C:\Users\BHlambert\Documents\Coleman USB\C# II\Archive\HR X\HumanResources\HRMain\obj\Debug\HRMain.csprojResolveAssemblyReference.cache
+C:\Users\BHlambert\Documents\Coleman USB\C# II\Archive\HR X\HumanResources\HRMain\obj\Debug\HRMain.HRMainForm.resources
+C:\Users\BHlambert\Documents\Coleman USB\C# II\Archive\HR X\HumanResources\HRMain\obj\Debug\HRMain.Properties.Resources.resources
+C:\Users\BHlambert\Documents\Coleman USB\C# II\Archive\HR X\HumanResources\HRMain\obj\Debug\HRMain.csproj.GenerateResource.Cache

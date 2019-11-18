@@ -1,0 +1,5 @@
+C:\Users\BHlambert\Documents\Coleman USB\C# II\Archive\HR X\HumanResources\Business\bin\Debug\Business.dll
+C:\Users\BHlambert\Documents\Coleman USB\C# II\Archive\HR X\HumanResources\Business\bin\Debug\Business.pdb
+C:\Users\BHlambert\Documents\Coleman USB\C# II\Archive\HR X\HumanResources\Business\obj\Debug\Business.csprojResolveAssemblyReference.cache
+C:\Users\BHlambert\Documents\Coleman USB\C# II\Archive\HR X\HumanResources\Business\obj\Debug\Business.dll
+C:\Users\BHlambert\Documents\Coleman USB\C# II\Archive\HR X\HumanResources\Business\obj\Debug\Business.pdb

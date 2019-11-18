@@ -1,0 +1,5 @@
+C:\Documents and Settings\george\Desktop\HumanResources\Data\bin\Debug\Data.dll
+C:\Documents and Settings\george\Desktop\HumanResources\Data\bin\Debug\Data.pdb
+C:\Documents and Settings\george\Desktop\HumanResources\Data\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\george\Desktop\HumanResources\Data\obj\Debug\Data.dll
+C:\Documents and Settings\george\Desktop\HumanResources\Data\obj\Debug\Data.pdb

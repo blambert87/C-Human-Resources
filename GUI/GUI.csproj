@@ -1,0 +1,240 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="12.0">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.50727</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{98E6F54A-9703-4723-8A5C-5CCF0F3889B0}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GUI</RootNamespace>
+    <AssemblyName>GUI</AssemblyName>
+    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>2.0</OldToolsVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AddEmployee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="AddEmployee.Designer.cs">
+      <DependentUpon>AddEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ContractCompensation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ContractCompensation.Designer.cs">
+      <DependentUpon>ContractCompensation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeleteEmployee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="DeleteEmployee.Designer.cs">
+      <DependentUpon>DeleteEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EditEmployee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EditEmployee.Designer.cs">
+      <DependentUpon>EditEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeChangeEventArgs.cs" />
+    <Compile Include="EmployeeIdInformation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EmployeeIdInformation.Designer.cs">
+      <DependentUpon>EmployeeIdInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="EmployeeInformation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="EmployeeInformation.Designer.cs">
+      <DependentUpon>EmployeeInformation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FullTimeCompensation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="FullTimeCompensation.Designer.cs">
+      <DependentUpon>FullTimeCompensation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HRButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="HRButton.Designer.cs">
+      <DependentUpon>HRButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HRDropDown.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="HRDropDown.Designer.cs">
+      <DependentUpon>HRDropDown.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HRGroupBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="HRGroupBox.Designer.cs">
+      <DependentUpon>HRGroupBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HRLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="HRLabel.Designer.cs">
+      <DependentUpon>HRLabel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HRListBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="HRListBox.Designer.cs">
+      <DependentUpon>HRListBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HRTextBox.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="HRTextBox.Designer.cs">
+      <DependentUpon>HRTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListEmployee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ListEmployee.Designer.cs">
+      <DependentUpon>ListEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ManageEmployee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ManageEmployee.Designer.cs">
+      <DependentUpon>ManageEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ModifyEmployee.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ModifyEmployee.Designer.cs">
+      <DependentUpon>ModifyEmployee.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PartTimeCompensation.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PartTimeCompensation.Designer.cs">
+      <DependentUpon>PartTimeCompensation.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Welcome.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Welcome.Designer.cs">
+      <DependentUpon>Welcome.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Business\Business.csproj">
+      <Project>{80CC3145-0D19-4428-87F1-14E9FDAD7B8F}</Project>
+      <Name>Business</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="AddEmployee.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>AddEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ContractCompensation.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ContractCompensation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeleteEmployee.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>DeleteEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EditEmployee.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EditEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeIdInformation.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EmployeeIdInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EmployeeInformation.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>EmployeeInformation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FullTimeCompensation.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>FullTimeCompensation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HRButton.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>HRButton.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HRDropDown.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>HRDropDown.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HRGroupBox.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>HRGroupBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HRLabel.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>HRLabel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HRListBox.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>HRListBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HRTextBox.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>HRTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListEmployee.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ListEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ModifyEmployee.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>ModifyEmployee.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PartTimeCompensation.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>PartTimeCompensation.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Welcome.resx">
+      <SubType>Designer</SubType>
+      <DependentUpon>Welcome.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
